@@ -271,6 +271,12 @@
    "name":"King James Version"
   },
   {
+   "code":"kjvs",
+   "date":"20252912",
+   "lang":"en",
+   "name":"Authorized King James Version w Strong's"
+  },
+  {
    "code":"leb",
    "date":"20151216",
    "lang":"en",
