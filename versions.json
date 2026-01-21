@@ -170,9 +170,15 @@
   },
   {
    "code":"asv",
-   "date":"20151216",
+   "date":"20262201",
    "lang":"en",
    "name":"The Holy Bible, American Standard Version"
+  },
+  {
+   "code":"asvs",
+   "date":"20151216",
+   "lang":"en",
+   "name":"American Standard Version w Strong's"
   },
   {
    "code":"ceb",
